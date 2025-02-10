@@ -1,9 +1,7 @@
 # DecodingCaesarCipher_2020
 Old science fair project from 7th grade I thought was cute (it was my first time learning python!)
 
-Christina Htay
-Ms. Law
-7th Grade Science
+Christina Htay, Ms. Law, 7th Grade Science
 March 9th, 2020
 
 ### Cracking Caesars Cipher: With Brute Force or Frequency Analysis?
@@ -30,7 +28,7 @@ Analysis, or Brute-Force?
 
 ### Variables
 Independent Variables: Sample Text used to Encrypt and then Decrypt
-Dependent Variable: Time Taken Until Text is Decrypted Correctly,Number of Attempts Needed
+Dependent Variable: Time Taken Until Text is Decrypted Correctly, Number of Attempts Needed
 
 ### Hypothesis
 Frequency Analysis is a better way to decode Caesar’s Text against the Brute-Force
